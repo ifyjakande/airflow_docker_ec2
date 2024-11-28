@@ -4,7 +4,7 @@ This guide provides detailed, step-by-step instructions for setting up Apache Ai
 
 ## Prerequisites
 
-- AWS EC2 Ubuntu instance (t2.medium or larger recommended)
+- AWS EC2 Ubuntu instance (minimum recommendation: t3.large with 30GB EBS)
 - SSH access to your EC2 instance
 - The following ports open in your security group:
   - 22 (SSH)
